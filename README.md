@@ -2,4 +2,4 @@
 
 [gh-pages](https://sergl82.github.io/ra-observable-details/)
 
-[Server]()
+[Server]('https://ra-observable-server.herokuapp.com/')
